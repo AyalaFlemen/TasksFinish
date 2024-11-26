@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\API\\\u05D0\u05D9\u05DC\u05D4\\ex2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6289A3-ED7C-46BB-A7C1-576E4C18A6C0}|ex2\\ex2.csproj|m:\\api\\\u05D0\u05D9\u05DC\u05D4\\ex2\\ex2\\repositories\\tasksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D6289A3-ED7C-46BB-A7C1-576E4C18A6C0}|ex2\\ex2.csproj|solutionrelative:ex2\\repositories\\tasksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6289A3-ED7C-46BB-A7C1-576E4C18A6C0}|ex2\\ex2.csproj|m:\\api\\\u05D0\u05D9\u05DC\u05D4\\ex2\\ex2\\services\\itasksservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D6289A3-ED7C-46BB-A7C1-576E4C18A6C0}|ex2\\ex2.csproj|solutionrelative:ex2\\services\\itasksservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6289A3-ED7C-46BB-A7C1-576E4C18A6C0}|ex2\\ex2.csproj|m:\\api\\\u05D0\u05D9\u05DC\u05D4\\ex2\\ex2\\services\\tasksservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D6289A3-ED7C-46BB-A7C1-576E4C18A6C0}|ex2\\ex2.csproj|solutionrelative:ex2\\services\\tasksservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6289A3-ED7C-46BB-A7C1-576E4C18A6C0}|ex2\\ex2.csproj|m:\\api\\\u05D0\u05D9\u05DC\u05D4\\ex2\\ex2\\models\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D6289A3-ED7C-46BB-A7C1-576E4C18A6C0}|ex2\\ex2.csproj|solutionrelative:ex2\\models\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6289A3-ED7C-46BB-A7C1-576E4C18A6C0}|ex2\\ex2.csproj|m:\\api\\\u05D0\u05D9\u05DC\u05D4\\ex2\\ex2\\controlers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D6289A3-ED7C-46BB-A7C1-576E4C18A6C0}|ex2\\ex2.csproj|solutionrelative:ex2\\controlers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6289A3-ED7C-46BB-A7C1-576E4C18A6C0}|ex2\\ex2.csproj|m:\\api\\\u05D0\u05D9\u05DC\u05D4\\ex2\\ex2\\repositories\\itasksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D6289A3-ED7C-46BB-A7C1-576E4C18A6C0}|ex2\\ex2.csproj|solutionrelative:ex2\\repositories\\itasksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6289A3-ED7C-46BB-A7C1-576E4C18A6C0}|ex2\\ex2.csproj|m:\\api\\\u05D0\u05D9\u05DC\u05D4\\ex2\\ex2\\models\\taskscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D6289A3-ED7C-46BB-A7C1-576E4C18A6C0}|ex2\\ex2.csproj|solutionrelative:ex2\\models\\taskscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6289A3-ED7C-46BB-A7C1-576E4C18A6C0}|ex2\\ex2.csproj|m:\\api\\\u05D0\u05D9\u05DC\u05D4\\ex2\\ex2\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D6289A3-ED7C-46BB-A7C1-576E4C18A6C0}|ex2\\ex2.csproj|solutionrelative:ex2\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6289A3-ED7C-46BB-A7C1-576E4C18A6C0}|ex2\\ex2.csproj|m:\\api\\\u05D0\u05D9\u05DC\u05D4\\ex2\\ex2\\models\\attachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D6289A3-ED7C-46BB-A7C1-576E4C18A6C0}|ex2\\ex2.csproj|solutionrelative:ex2\\models\\attachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6289A3-ED7C-46BB-A7C1-576E4C18A6C0}|ex2\\ex2.csproj|m:\\api\\\u05D0\u05D9\u05DC\u05D4\\ex2\\ex2\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D6289A3-ED7C-46BB-A7C1-576E4C18A6C0}|ex2\\ex2.csproj|solutionrelative:ex2\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6289A3-ED7C-46BB-A7C1-576E4C18A6C0}|ex2\\ex2.csproj|m:\\api\\\u05D0\u05D9\u05DC\u05D4\\ex2\\ex2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9D6289A3-ED7C-46BB-A7C1-576E4C18A6C0}|ex2\\ex2.csproj|solutionrelative:ex2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6289A3-ED7C-46BB-A7C1-576E4C18A6C0}|ex2\\ex2.csproj|m:\\api\\\u05D0\u05D9\u05DC\u05D4\\ex2\\ex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D6289A3-ED7C-46BB-A7C1-576E4C18A6C0}|ex2\\ex2.csproj|solutionrelative:ex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6289A3-ED7C-46BB-A7C1-576E4C18A6C0}|ex2\\ex2.csproj|m:\\api\\\u05D0\u05D9\u05DC\u05D4\\ex2\\ex2\\tasks.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9D6289A3-ED7C-46BB-A7C1-576E4C18A6C0}|ex2\\ex2.csproj|solutionrelative:ex2\\tasks.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Project.cs",
+              "DocumentMoniker": "M:\\API\\\u05D0\u05D9\u05DC\u05D4\\ex2\\ex2\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "ex2\\Models\\Project.cs",
+              "ToolTip": "M:\\API\\\u05D0\u05D9\u05DC\u05D4\\ex2\\ex2\\Models\\Project.cs",
+              "RelativeToolTip": "ex2\\Models\\Project.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T12:28:12.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tasks.cs",
+              "DocumentMoniker": "M:\\API\\\u05D0\u05D9\u05DC\u05D4\\ex2\\ex2\\Models\\Tasks.cs",
+              "RelativeDocumentMoniker": "ex2\\Models\\Tasks.cs",
+              "ToolTip": "M:\\API\\\u05D0\u05D9\u05DC\u05D4\\ex2\\ex2\\Models\\Tasks.cs",
+              "RelativeToolTip": "ex2\\Models\\Tasks.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T12:27:32.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TasksContext.cs",
+              "DocumentMoniker": "M:\\API\\\u05D0\u05D9\u05DC\u05D4\\ex2\\ex2\\Models\\TasksContext.cs",
+              "RelativeDocumentMoniker": "ex2\\Models\\TasksContext.cs",
+              "ToolTip": "M:\\API\\\u05D0\u05D9\u05DC\u05D4\\ex2\\ex2\\Models\\TasksContext.cs",
+              "RelativeToolTip": "ex2\\Models\\TasksContext.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAmwE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T12:27:42.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TasksRepository.cs",
+              "DocumentMoniker": "M:\\API\\\u05D0\u05D9\u05DC\u05D4\\ex2\\ex2\\Repositories\\TasksRepository.cs",
+              "RelativeDocumentMoniker": "ex2\\Repositories\\TasksRepository.cs",
+              "ToolTip": "M:\\API\\\u05D0\u05D9\u05DC\u05D4\\ex2\\ex2\\Repositories\\TasksRepository.cs",
+              "RelativeToolTip": "ex2\\Repositories\\TasksRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T13:47:50.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Attachment.cs",
+              "DocumentMoniker": "M:\\API\\\u05D0\u05D9\u05DC\u05D4\\ex2\\ex2\\Models\\Attachment.cs",
+              "RelativeDocumentMoniker": "ex2\\Models\\Attachment.cs",
+              "ToolTip": "M:\\API\\\u05D0\u05D9\u05DC\u05D4\\ex2\\ex2\\Models\\Attachment.cs",
+              "RelativeToolTip": "ex2\\Models\\Attachment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T12:28:08.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Users.cs",
+              "DocumentMoniker": "M:\\API\\\u05D0\u05D9\u05DC\u05D4\\ex2\\ex2\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "ex2\\Models\\Users.cs",
+              "ToolTip": "M:\\API\\\u05D0\u05D9\u05DC\u05D4\\ex2\\ex2\\Models\\Users.cs",
+              "RelativeToolTip": "ex2\\Models\\Users.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T12:27:46.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "M:\\API\\\u05D0\u05D9\u05DC\u05D4\\ex2\\ex2\\appsettings.json",
+              "RelativeDocumentMoniker": "ex2\\appsettings.json",
+              "ToolTip": "M:\\API\\\u05D0\u05D9\u05DC\u05D4\\ex2\\ex2\\appsettings.json",
+              "RelativeToolTip": "ex2\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-23T14:23:38.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TasksServices.cs",
+              "DocumentMoniker": "M:\\API\\\u05D0\u05D9\u05DC\u05D4\\ex2\\ex2\\Services\\TasksServices.cs",
+              "RelativeDocumentMoniker": "ex2\\Services\\TasksServices.cs",
+              "ToolTip": "M:\\API\\\u05D0\u05D9\u05DC\u05D4\\ex2\\ex2\\Services\\TasksServices.cs",
+              "RelativeToolTip": "ex2\\Services\\TasksServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T13:49:11.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ITasksServices.cs",
+              "DocumentMoniker": "M:\\API\\\u05D0\u05D9\u05DC\u05D4\\ex2\\ex2\\Services\\ITasksServices.cs",
+              "RelativeDocumentMoniker": "ex2\\Services\\ITasksServices.cs",
+              "ToolTip": "M:\\API\\\u05D0\u05D9\u05DC\u05D4\\ex2\\ex2\\Services\\ITasksServices.cs",
+              "RelativeToolTip": "ex2\\Services\\ITasksServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T13:49:00.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITasksRepository.cs",
+              "DocumentMoniker": "M:\\API\\\u05D0\u05D9\u05DC\u05D4\\ex2\\ex2\\Repositories\\ITasksRepository.cs",
+              "RelativeDocumentMoniker": "ex2\\Repositories\\ITasksRepository.cs",
+              "ToolTip": "M:\\API\\\u05D0\u05D9\u05DC\u05D4\\ex2\\ex2\\Repositories\\ITasksRepository.cs",
+              "RelativeToolTip": "ex2\\Repositories\\ITasksRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T13:47:14.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "M:\\API\\\u05D0\u05D9\u05DC\u05D4\\ex2\\ex2\\Controlers\\TasksController.cs",
+              "RelativeDocumentMoniker": "ex2\\Controlers\\TasksController.cs",
+              "ToolTip": "M:\\API\\\u05D0\u05D9\u05DC\u05D4\\ex2\\ex2\\Controlers\\TasksController.cs",
+              "RelativeToolTip": "ex2\\Controlers\\TasksController.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAmwEsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T13:48:36.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "M:\\API\\\u05D0\u05D9\u05DC\u05D4\\ex2\\ex2\\Program.cs",
+              "RelativeDocumentMoniker": "ex2\\Program.cs",
+              "ToolTip": "M:\\API\\\u05D0\u05D9\u05DC\u05D4\\ex2\\ex2\\Program.cs",
+              "RelativeToolTip": "ex2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T13:49:25.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Tasks.json",
+              "DocumentMoniker": "M:\\API\\\u05D0\u05D9\u05DC\u05D4\\ex2\\ex2\\Tasks.json",
+              "RelativeDocumentMoniker": "ex2\\Tasks.json",
+              "ToolTip": "M:\\API\\\u05D0\u05D9\u05DC\u05D4\\ex2\\ex2\\Tasks.json",
+              "RelativeToolTip": "ex2\\Tasks.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-23T14:59:29.676Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
